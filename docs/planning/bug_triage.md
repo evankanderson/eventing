@@ -37,10 +37,10 @@ New bug operations will also be explained in the [issue template](/.github/ISSUE
 - Guidelines for bug triage:
     - Any `priority/critical-urgent` bug will disrupt the current release cycle and hence need to be approved by WG lead.
     - All of `priority/important-soon` bugs will be part of the next release cycle.
-    - Number of bugs with `priority/important-longterm` need to be kept low and non-increasing, release over release. Here "long term" refers to next 2-3 release cycles. If we will not work on it in next 2-3 release cycles, then we should close the bug upon triaging.  [Remember the goal](#Goal). 
+    - Number of bugs with `priority/important-longterm` need to be kept low and non-increasing, release over release. Here "long term" refers to next 2-3 release cycles. If we will not work on it in next 2-3 release cycles, then we should close the bug upon triaging.  [Remember the goal!](#Goals). 
     - TODO: Update these guidelines based on learnings from triage meetings.
 - In case of conflict, WG lead's decision will be final.
-- WG lead will periodically monitor bug count and trend to make sure we meet our [goal](#Goal).
+- WG lead will periodically monitor bug count and trend to make sure we meet our [goal](#Goals).
 
 ## To explore:
 - Need to explore what tools could be used to track and see bug trends.
